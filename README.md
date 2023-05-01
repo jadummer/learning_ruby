@@ -13,7 +13,7 @@
 File.open do |f|
 end
 ```
-Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
+    Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
 
 - [ ] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
 
