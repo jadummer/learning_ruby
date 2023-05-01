@@ -1,6 +1,6 @@
-### Learning Ruby
+# Learning Ruby
 
-# Write a series of scripts that do the following and save each one:
+Write a series of scripts that do the following and save each one:
 
 - [x] Script 1: read a list of arguments from the command prompt and print them out
 
