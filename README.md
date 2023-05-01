@@ -8,13 +8,12 @@
 
 - [ ] Script 3: Take JSON file path from the command line and verify the file exists, print a message to the screen saying so; add a message to print when the file does not.
 
-- [ ] Script 4: Open one JSON file and print each line to the screen; use File#open and File#close. Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
-
-Script 4: Open _one_ JSON file and print each line to the screen, using
+- [ ] Script 4: Open _one_ JSON file and print each line to the screen, using
 ```
 File.open do |f|
 end
 ```
+Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
 
 - [ ] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
 
