@@ -2,7 +2,7 @@
 
 # Write a series of scripts that do the following and save each one:
 
-Script 1: read a list of arguments from the command prompt and print them out
+-[] Script 1: read a list of arguments from the command prompt and print them out
 
 Script 2: print the arguments as a comma-separated list (Array#join)
 
