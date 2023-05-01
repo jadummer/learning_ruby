@@ -4,7 +4,7 @@ Write a series of scripts that do the following and save each one:
 
 - [x] Script 1: read a list of arguments from the command prompt and print them out
 
-- [ ] Script 2: print the arguments as a comma-separated list (Array#join)
+- [x] Script 2: print the arguments as a comma-separated list (Array#join)
 
 - [ ] Script 3: Take JSON file path from the command line and verify the file exists, print a message to the screen saying so; add a message to print when the file does not.
 
