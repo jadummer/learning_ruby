@@ -1,6 +1,6 @@
 ## Learning Ruby
 
-# Write a series of scripts that do the following and save each one:
+Write a series of scripts that do the following and save each one:
 
 - [x] Script 1: read a list of arguments from the command prompt and print them out
 
@@ -21,7 +21,7 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [ ] Script 7: Open one JSON file and print each image @id using, getting each `@id` using Hash#dig
 
-# The next scripts don’t deal with JSON; so you’re starting over
+The next scripts don’t deal with JSON; so you’re starting over
 
 - [ ] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
 
@@ -29,7 +29,7 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [ ] Script 10: Open the ark list and print each IIIF manifest URL to the screen using string interpolation.
 
-# These pages from https://ruby-doc.org will be helpful:
+These pages from https://ruby-doc.org will be helpful:
 
 String
 https://ruby-doc.org/3.2.2/String.html
