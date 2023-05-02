@@ -15,7 +15,7 @@ end
 ```
 Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
 
-- [ ] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
+- [x] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
 
 - [ ] Script 6: Open one JSON file and print each image @id, geting each ID using Hash bracket `[]` notation
 
