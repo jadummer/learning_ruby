@@ -8,7 +8,7 @@ Write a series of scripts that do the following and save each one:
 
 - [x] Script 3: Take JSON file path from the command line and verify the file exists, print a message to the screen saying so; add a message to print when the file does not.
 
-- [ ] Script 4: Open _one_ JSON file and print each line to the screen, using
+- [x] Script 4: Open _one_ JSON file and print each line to the screen, using
 ```
 File.open do |f|
 end
