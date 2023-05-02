@@ -1,4 +1,4 @@
-#!/bin/usr/env ruby
+#!/usr/bin/env ruby
 
 if File.exist?("manifest.json")
 	puts "manifest.json"
