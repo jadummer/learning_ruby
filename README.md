@@ -17,7 +17,7 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [x] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
 
-- [ ] Script 6: Open one JSON file and print each image @id, geting each ID using Hash bracket `[]` notation
+- [x] Script 6: Open one JSON file and print each image @id, geting each ID using Hash bracket `[]` notation
 
 - [ ] Script 7: Open one JSON file and print each image @id using, getting each `@id` using Hash#dig
 
