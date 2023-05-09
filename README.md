@@ -27,7 +27,7 @@ The next scripts don’t deal with JSON; so you’re starting over
 
 - [x] Script 9: Reimplement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
 
-- [ ] Script 10: Open the ark list and print each IIIF manifest URL to the screen using string interpolation.
+- [x] Script 10: Open the ark list and print each IIIF manifest URL to the screen using string interpolation.
 
 These pages from https://ruby-doc.org will be helpful:
 
