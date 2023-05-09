@@ -1,0 +1,39 @@
+Implement DSNAME IDs; optimize actor authority creation
+
+Rationalize author name creation and incorporate
+DSNAME ID integration. Separate actor auth creation
+from attaching actor auth records to name as recorded
+values. Rationalize authority creation for all
+auth types; and implement shared access to WB and DSNG
+connections/logins.
+
+
+Refactor actor_data extraction as own method
+
+Improve sleep behavior and logging
+
+Use authorized_label for auth names
+
+Refactor: move import CSV read/parse to module
+
+Rename function read_csv() to read_authority_csv()
+
+Refactor: Separate class for Wikibase connections
+
+Refactor: Separate class for DSNG connections
+
+Refactor: Move authority load script functions into ds_import.py
+
+Add .python-version for pyenv
+
+Add names import command to ds_import.py
+
+Refactor: add separate authorities.find_actor() function
+
+and remove that step from ds_import.sh.
+Move holding_institution creation into ds/authorities
+Actor creation: handle pre-run by ds/authorities module.
+
+Remove actor creation from dsimport
+
+Refactor: move actor data creation to own function

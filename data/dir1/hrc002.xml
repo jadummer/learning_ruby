@@ -1,0 +1,127 @@
+<record xmlns='http://www.loc.gov/MARC21/slim'
+><leader
+  >02576ntm a2200313Ii 4500</leader
+  ><controlfield tag='001'
+  >991058302069406011</controlfield
+  ><controlfield tag='005'
+  >20220506142502.0</controlfield
+  ><controlfield tag='008'
+  >220506s1696    stk           000 0 eng d</controlfield
+  ><datafield ind1=' ' ind2=' ' tag='035'
+  ><subfield code='a'
+    >(OCoLC)1314389242h</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='035'
+  ><subfield code='a'
+    >(OCoLC)on1314389242h</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='040'
+  ><subfield code='a'
+    >HRH</subfield
+    ><subfield code='b'
+    >eng</subfield
+    ><subfield code='e'
+    >dcrmmss</subfield
+    ><subfield code='c'
+    >HRH</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='041'
+  ><subfield code='a'
+    >eng</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='049'
+  ><subfield code='a'
+    >HRHH</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2='9' tag='099'
+  ><subfield code='a'
+    >MS 3327, Container 87</subfield
+    ></datafield
+  ><datafield ind1='0' ind2='0' tag='245'
+  ><subfield code='a'
+    >Observations upon the rise and progress of the late Rebellion against King Charles the First :</subfield
+    ><subfield code='k'
+    >manuscript.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2='0' tag='264'
+  ><subfield code='a'
+    >Scotland? ;</subfield
+    ><subfield code='c'
+    >1696</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='300'
+  ><subfield code='a'
+    >111 leaves :</subfield
+    ><subfield code='b'
+    >paper,</subfield
+    ><subfield code='c'
+    >32 x 20 cm</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='336'
+  ><subfield code='a'
+    >text</subfield
+    ><subfield code='b'
+    >txt</subfield
+    ><subfield code='2'
+    >rdacontent</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='337'
+  ><subfield code='a'
+    >unmediated</subfield
+    ><subfield code='b'
+    >n</subfield
+    ><subfield code='2'
+    >rdamedia</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='338'
+  ><subfield code='a'
+    >volume</subfield
+    ><subfield code='b'
+    >nc</subfield
+    ><subfield code='2'
+    >rdacarrier</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='500'
+  ><subfield code='a'
+    >Title from caption?</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='506'
+  ><subfield code='a'
+    >Unrestricted, for either reading room or classroom use.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='581'
+  ><subfield code='a'
+    >Published with some textual differences as Memoirs of Henry Guthry, Late Bishop of Dunkel in Scotland, Wherein the conspiracies and rebellion against king Charles I. of blessed memory, to the time of the murther of that monarch are briefly and faithfully related (London: printed for W. B. and sold by John Nott, 1702).</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='520'
+  ><subfield code='a'
+    >Published with some textual differences as Memoirs of Henry Guthry, Late Bishop of Dunkel in Scotland, Wherein the conspiracies and rebellion against king Charles I. of blessed memory, to the time of the murther of that monarch are briefly and faithfully related (London: printed for W. B. and sold by John Nott, 1702).</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='590'
+  ><subfield code='a'
+    >MS 3327, Container 87: Back flyleaves and pastedown from a Scottish account book dated 1706; shelfmark S.5. in ink on inside front cover; owned in the 18th or 19th century by Thomas Warde, 46 Norfolk Market Hall, Sheffield; acquired by the Ransom Center in 1973 (R5374) from Jenkins and Company. Bibliography: Published with some textual differences as Memoirs of Henry Guthry, Late Bishop of Dunkel in Scotland, Wherein the conspiracies and rebellion against king Charles I. of blessed memory, to the time of the murther of that monarch are briefly and faithfully related (London: printed for W. B. and sold by John Nott, 1702). Binding Scotland? 18th c?): Stitched binding (four holes, green dyed parchment) with dark brown pieced paper cover (re-used material). No caps, decoration, title, or endbands. Cut edges, six kerfs sawn across spine. Endleaf components: front integral endleaves, pastedown and free endleaf; back integral pastedown.</subfield
+    ></datafield
+  ><datafield ind1='1' ind2=' ' tag='790'
+  ><subfield code='a'
+    >Warde, Thomas,</subfield
+    ><subfield code='e'
+    >former owner.</subfield
+    ></datafield
+  ><datafield ind1='2' ind2=' ' tag='791'
+  ><subfield code='a'
+    >Medieval and Early Modern Manuscripts Collection.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='752'
+  ><subfield code='a'
+    >Scotland,</subfield
+    ><subfield code='e'
+    >producation place.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='994'
+  ><subfield code='a'
+    >C0</subfield
+    ><subfield code='b'
+    >HRH</subfield
+    ></datafield
+  ></record
+>

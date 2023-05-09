@@ -1,0 +1,49 @@
+language_as_recorded,language_code,authorized_label,structured_value
+Arabic,ara,Arabic,Q13955
+"Arabic headwords, Ottoman definitions",ara;ota,Arabic|Ottoman Turkish,Q13955|Q36730
+Arabic with some marginalia in Persian,ara;per,Arabic|Persian,Q13955|Q9168
+"Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)",ara,Arabic|Ottoman Turkish,Q13955|Q36730
+Arabic; some notes in Persian,ara;per,Arabic|Persian,Q13955|Q9168
+German,ger,German,Q188
+Hebrew,heb,Hebrew,Q9288
+In Italian,ita,Italian,Q652
+In Latin,lat,Latin,Q397
+In Middle French,frm,Middle French,Q1473289
+In Sanskrit,san,Sanskrit,Q11059
+Italian,ita,Italian,Q652
+Italian and Latin,ita;lat,Italian|Latin,Q652|Q397
+Italian with a short section in Latin (f. 49r-49v),ita;lat,Italian|Latin,Q652|Q397
+Latin,lat,Latin,Q397
+Latin (f. 1r-5r) and Italian with rubrics in Latin (f. 5v-20r),lat;ita,Latin|Italian,Q397|Q652
+"Latin, with a few poems in Italian (f. 106r-108v)",lat;ita,Latin|Italian,Q397|Q652
+"Latin, with a few words in Spanish (f. 7r)",lat;spa,Latin|Spanish,Q397|Q1321
+"Latin, with one section (f. 267r-272r) and some recipes, notes, and names in Italian",lat,Latin|Italian,Q397|Q652
+"Latin, with several items in Italian",lat;ita,Latin|Italian,Q397|Q652
+"Latin, with some French translations in the first conjugation table (f. 8r-9r)",lat;fre,Latin|French,Q397|Q150
+Middle English,enm,Middle English,Q36395
+Middle English,eng;enm,Middle English,Q36395
+Middle French,frm,Middle French,Q1473289
+Middle French and Latin,frm,Middle French|Latin,Q1473289|Q397
+"Middle French, with some sections in Latin (f. 77r-81v, 85v-87r, 93r-98r, 137v, 141r)",frm;lat,Middle French|Latin,Q1473289|Q397
+"Middle High German, with some Latin",gmh;lat,Middle High German|Latin,Q837985|Q397
+Ottoman Turkish,ota,Ottoman Turkish,Q36730
+Persian,per,Persian,Q9168
+Persian with source-text in Arabic; some glosses and notes in Chinese,per;chi,Persian|Arabic|Chinese,Q9168|Q13955|Q7850
+Spanish,spa,Spanish,Q1321
+Tashelhit / Shilha,ber,Shilha,Q34152
+ara,ara,Arabic,Q13955
+ber,ber,Berber,Q25448
+chi,chi,Chinese,Q7850
+eng,eng,English,Q1860
+enm,enm,Middle English,Q36395
+fre,fre,French,Q150
+frm,frm,Middle French,Q1473289
+ger,ger,German,Q188
+gmh,gmh,Middle High German,Q837985
+heb,heb,Hebrew,Q9288
+ita,ita,Italian,Q652
+lat,lat,Latin,Q397
+ota,ota,Ottoman Turkish,Q36730
+per,per,Persian,Q9168
+san,san,Sanskrit,Q11059
+spa,spa,Spanish,Q1321

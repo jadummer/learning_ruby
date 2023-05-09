@@ -1,0 +1,53 @@
+http://id.worldcat.org/fast/1008278|ontology/1.0/#facet-Topical|Manuscripts, Arabic
+http://id.worldcat.org/fast/1008323|ontology/1.0/#facet-Topical|Manuscripts, Dutch
+http://id.worldcat.org/fast/1008324|ontology/1.0/#facet-Topical|Manuscripts, English
+http://id.worldcat.org/fast/1008329|ontology/1.0/#facet-Topical|Manuscripts, English (Middle)
+http://id.worldcat.org/fast/1008335|ontology/1.0/#facet-Topical|Manuscripts, European
+http://id.worldcat.org/fast/1008338|ontology/1.0/#facet-Topical|Manuscripts, French
+http://id.worldcat.org/fast/1008346|ontology/1.0/#facet-Topical|Manuscripts, German
+http://id.worldcat.org/fast/1008360|ontology/1.0/#facet-Topical|Manuscripts, Hebrew
+http://id.worldcat.org/fast/1008378|ontology/1.0/#facet-Topical|Manuscripts, Italian
+http://id.worldcat.org/fast/1008395|ontology/1.0/#facet-Topical|Manuscripts, Latin
+http://id.worldcat.org/fast/1008399|ontology/1.0/#facet-Topical|Manuscripts, Latin (Medieval and modern)
+http://id.worldcat.org/fast/1008422|ontology/1.0/#facet-Topical|Manuscripts, Medieval
+http://id.worldcat.org/fast/1008462|ontology/1.0/#facet-Topical|Manuscripts, Persian
+http://id.worldcat.org/fast/1008472|ontology/1.0/#facet-Topical|Manuscripts, Renaissance
+http://id.worldcat.org/fast/1008482|ontology/1.0/#facet-Topical|Manuscripts, Sanskrit
+http://id.worldcat.org/fast/1008493|ontology/1.0/#facet-Topical|Manuscripts, Tashelhit
+http://id.worldcat.org/fast/1008500|ontology/1.0/#facet-Topical|Manuscripts, Spanish
+http://id.worldcat.org/fast/1008521|ontology/1.0/#facet-Topical|Manuscripts, Turkish
+http://id.worldcat.org/fast/1037841|ontology/1.0/#facet-Topical|Nineteenth century
+http://id.worldcat.org/fast/1037854|ontology/1.0/#facet-Topical|Ninth century
+http://id.worldcat.org/fast/1074737|ontology/1.0/#facet-Topical|Prayers
+http://id.worldcat.org/fast/1077682|ontology/1.0/#facet-Topical|Privileges and immunities, Ecclesiastical
+http://id.worldcat.org/fast/1113663|ontology/1.0/#facet-Topical|Seventeenth century
+http://id.worldcat.org/fast/1119851|ontology/1.0/#facet-Topical|Sixteenth century
+http://id.worldcat.org/fast/1150138|ontology/1.0/#facet-Topical|Thirteenth century
+http://id.worldcat.org/fast/1159791|ontology/1.0/#facet-Topical|Twelfth century
+http://id.worldcat.org/fast/1159810|ontology/1.0/#facet-Topical|Twentieth century
+http://id.worldcat.org/fast/1204565|ontology/1.0/#facet-Geographic|Italy
+http://id.worldcat.org/fast/1210276|ontology/1.0/#facet-Geographic|India
+http://id.worldcat.org/fast/1411628|ontology/1.0/#facet-FormGenre|History
+http://id.worldcat.org/fast/1411635|ontology/1.0/#facet-FormGenre|Criticism, interpretation, etc.
+http://id.worldcat.org/fast/1411636|ontology/1.0/#facet-FormGenre|Early works
+http://id.worldcat.org/fast/1423723|ontology/1.0/#facet-FormGenre|Commentaries
+http://id.worldcat.org/fast/1423787|ontology/1.0/#facet-FormGenre|Fiction
+http://id.worldcat.org/fast/1423828|ontology/1.0/#facet-FormGenre|Poetry
+http://id.worldcat.org/fast/1423861|ontology/1.0/#facet-FormGenre|Specimens
+http://id.worldcat.org/fast/1423874|ontology/1.0/#facet-FormGenre|Pictorial works
+http://id.worldcat.org/fast/1423886|ontology/1.0/#facet-FormGenre|Spurious and doubtful works
+http://id.worldcat.org/fast/1423904|ontology/1.0/#facet-FormGenre|Sermons
+http://id.worldcat.org/fast/1423905|ontology/1.0/#facet-FormGenre|Sacred books
+http://id.worldcat.org/fast/1423909|ontology/1.0/#facet-FormGenre|Prayers and devotions
+http://id.worldcat.org/fast/1424060|ontology/1.0/#facet-FormGenre|Manuscripts
+http://id.worldcat.org/fast/1424190|ontology/1.0/#facet-FormGenre|Recipes
+http://id.worldcat.org/fast/1726596|ontology/1.0/#facet-FormGenre|Epic poetry
+http://id.worldcat.org/fast/1774286|ontology/1.0/#facet-FormGenre|Speeches
+http://id.worldcat.org/fast/1919892|ontology/1.0/#facet-FormGenre|Annals and chronicles
+http://id.worldcat.org/fast/1919974|ontology/1.0/#facet-FormGenre|Tables (Data)
+http://id.worldcat.org/fast/1939841|ontology/1.0/#facet-FormGenre|Prayers
+http://id.worldcat.org/fast/815177|ontology/1.0/#facet-Topical|Art
+http://id.worldcat.org/fast/904058|ontology/1.0/#facet-Topical|Eighteenth century
+http://id.worldcat.org/fast/908096|ontology/1.0/#facet-Topical|Eleventh century
+http://id.worldcat.org/fast/923962|ontology/1.0/#facet-Topical|Fifteenth century
+http://id.worldcat.org/fast/933420|ontology/1.0/#facet-Topical|Fourteenth century

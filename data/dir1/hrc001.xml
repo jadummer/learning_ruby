@@ -1,0 +1,99 @@
+<record xmlns='http://www.loc.gov/MARC21/slim'
+><leader
+  >01572ntm a2200253Ii 4500</leader
+  ><controlfield tag='001'
+  >991058302069306011</controlfield
+  ><controlfield tag='005'
+  >20220506142911.0</controlfield
+  ><controlfield tag='008'
+  >220506s1655    enk           000 0 eng d</controlfield
+  ><datafield ind1=' ' ind2=' ' tag='035'
+  ><subfield code='a'
+    >(OCoLC)1314389300h</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='035'
+  ><subfield code='a'
+    >(OCoLC)on1314389300h</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='040'
+  ><subfield code='a'
+    >HRH</subfield
+    ><subfield code='b'
+    >eng</subfield
+    ><subfield code='e'
+    >dcrmmss</subfield
+    ><subfield code='c'
+    >HRH</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='041'
+  ><subfield code='a'
+    >dut</subfield
+    ><subfield code='a'
+    >eng</subfield
+    ><subfield code='a'
+    >gre</subfield
+    ><subfield code='a'
+    >lat</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='049'
+  ><subfield code='a'
+    >HRHH</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2='9' tag='099'
+  ><subfield code='a'
+    >MS 3327, Container 88</subfield
+    ></datafield
+  ><datafield ind1='0' ind2='0' tag='245'
+  ><subfield code='a'
+    >Diatribe de heraldorum origine, officio, collegio, etc. :</subfield
+    ><subfield code='k'
+    >manuscript.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2='0' tag='264'
+  ><subfield code='a'
+    >England ;</subfield
+    ><subfield code='c'
+    >1655, with additions to 1660.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='300'
+  ><subfield code='a'
+    >18 leaves :</subfield
+    ><subfield code='b'
+    >paper,</subfield
+    ><subfield code='c'
+    >30 x 20 cm</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='500'
+  ><subfield code='a'
+    >Title devised by cataloger.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='506'
+  ><subfield code='a'
+    >Unrestricted, for either reading room or classroom use.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='590'
+  ><subfield code='a'
+    >MS 3327, Container 88: Purchased at an unidentified sale on 11 December 1969, lot 36/2; acquired by the Ransom Center in 1973 (R5374) from Jenkins and Company. Binding (England? 19th c?): Half olive green tanned calfskin/ maroon grained book cloth over paper boards. Pulled-over caps, cut before sewing.  Double lines blind-tooled at board edge of spine covering, corners, head and tail of spine; title gold-tooled on spine. Sewn on three supports (not visible recessed?) laced on (?) boards. Stuck-on machine made endbands (maroon/white). Endleaf components:  front tipped made endleaves marbled paper, machine made off-white paper, making pastedown, two free endleaves; back same, plus additional twelve leaves rough-cut machine-made paper.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2='0' tag='650'
+  ><subfield code='a'
+    >Heraldry.</subfield
+    ></datafield
+  ><datafield ind1='2' ind2=' ' tag='791'
+  ><subfield code='a'
+    >Medieval and Early Modern Manuscripts Collection.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='752'
+  ><subfield code='a'
+    >England,</subfield
+    ><subfield code='e'
+    >producation place.</subfield
+    ></datafield
+  ><datafield ind1=' ' ind2=' ' tag='994'
+  ><subfield code='a'
+    >C0</subfield
+    ><subfield code='b'
+    >HRH</subfield
+    ></datafield
+  ></record
+>
