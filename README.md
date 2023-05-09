@@ -23,7 +23,7 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 The next scripts don’t deal with JSON; so you’re starting over
 
-- [ ] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
+- [x] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
 
 - [ ] Script 9: Reimplement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
 
