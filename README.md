@@ -6,13 +6,23 @@ Write a series of scripts that do the following and save each one:
 
 - [x] Script 2: print the arguments as a comma-separated list (Array#join)
 
+  - [ ] FIX: The output of `script2.rb a b c d` should be `a, b, c, d`
+
 - [x] Script 3: Take JSON file path from the command line and verify the file exists, print a message to the screen saying so; add a message to print when the file does not.
+
+  - [ ] FIX: Script 3 should take an argument `script3.rb data/manifest.json`; the script now hard codes the path and the file exists tests will always evaluate to true; when the file does not exist the script should print a different message:
+
+```shell
+$ ruby script3.rb data/manifest.xyz # => "File does not exist: data/manifest.xyz
+```
 
 - [x] Script 4: Open _one_ JSON file and print each line to the screen, using
 ```
 File.open do |f|
 end
 ```
+ - [ ] CHANGE: If time permits, change this script to accept an argument so it will work with any text file.
+
 Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
 
 - [x] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
@@ -21,9 +31,13 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [x] Script 7: Open one JSON file and print each image @id using, getting each `@id` using Hash#dig
 
+  - [ ] OOPS: My bad, the manifest was a bad choice here. It doesn't really exercise the `Hash#dig` method. So, do this, open and load `data/ds-catalog-dump-20230328.json` and use `Hash#dig` to get the `label` for each 'item'.
+
 The next scripts don’t deal with JSON; so you’re starting over
 
 - [x] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
+
+   - [ ] OOPS, again: There's only one ARK here. Do you have a file with more ARK IDs you could use here?
 
 - [x] Script 9: Reimplement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
 
