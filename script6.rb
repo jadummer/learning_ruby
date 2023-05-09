@@ -4,7 +4,7 @@ require 'pp'
 
 # Open one JSON file and print each image @id, geting each ID using Hash bracket [] notation
 
-json = File.read("manifest.json")
+json = File.read("data/manifest.json")
 data_hash = JSON.parse(json) # is a Hash
 sequences = data_hash["sequences"] # is an Array
 canvases = sequences[0]["canvases"] # is an Array

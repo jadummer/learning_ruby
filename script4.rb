@@ -5,5 +5,5 @@
 # File.open do |f|
 # end
 
-File.open("iiifmanifests.txt").each {|line| puts line}
+File.open("data/iiifmanifests.txt").each {|line| puts line}
 

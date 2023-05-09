@@ -4,7 +4,7 @@
 # print a message to the screen saying so; 
 # add a message to print when the file does not.
 
-if File.exist?("manifest.json")
+if File.exist?("data/manifest.json")
 	puts "manifest.json exists"
 else
 	puts "There is no json file in this directory."
