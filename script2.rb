@@ -4,9 +4,8 @@
 # ruby script2.rb hello how are you
 # returns ["hello," "how," "are," "you"]
 
-input_array = ARGV
+# FIX: The output of script2.rb a b c d should be a, b, c, d
 
-input_array.to_s
-puts input_array
+input_array = ARGV
 puts input_array.join(", ")
 
