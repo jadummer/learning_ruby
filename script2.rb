@@ -7,5 +7,6 @@
 input_array = ARGV
 
 input_array.to_s
+puts input_array
 puts input_array.join(", ")
 
