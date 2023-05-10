@@ -47,7 +47,7 @@ The next scripts don’t deal with JSON; so, you’re starting over
 
 - [ ] Script 11: Accept a directory as an argument; read each file name and print to the screen prefix `--- File: ` before each file name; run this on `data/dir1` and `data/dir2`
 
-- [ ] Script 12: Same as script 11 for `data/dir2` and `data/dir3`, but also print the prefix with the file extension: 
+- [ ] Script 12: Same as script 11 for `data/dir2` and `data/dir3`, but also print the prefix with the file extension:
 
 ```
 -- File, txt: some_file.txt
@@ -55,7 +55,7 @@ The next scripts don’t deal with JSON; so, you’re starting over
 etc.
 ```
 
-- [ ] Script 13: Accept a directory as an argument; select the CSV files; use `Dir[]` with globbing; print each file name to the screen prefixing each with `--- ` 
+- [ ] Script 13: Accept a directory as an argument; select the CSV files; use `Dir[]` with globbing; print each file name to the screen prefixing each with `--- `
 
 - [ ] Script 14: Same as script 13, but read all the files from the directory and use [`Enumerable#all?`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F) with a block to select the CSV files.
 
@@ -77,42 +77,51 @@ Install the Rmagick gem: `gem install rmagick`
 
 These pages from https://ruby-doc.org will be helpful:
 
-**String**
-https://ruby-doc.org/3.2.2/String.html
+**Array**
+https://ruby-doc.org/3.2.2/Array.html
 
-Note especially: String#sub, String#gsub, String.chomp, String.strip
+*Array mixes in all these methods:*
+https://ruby-doc.org/3.2.2/Enumerable.html
 
-**open-uri**
-https://ruby-doc.org/3.2.2/stdlibs/open-uri/OpenURI.html
+**Dir: directory operations**
+https://ruby-doc.org/3.2.2/Dir.html
 
-**Downloading files with OpenURI**
-https://www.twilio.com/blog/download-image-files-ruby
+*Dir[] and Dir.glob*
+https://ruby-doc.org/3.2.2/Dir.html#method-c-glob
+
+**Enumerable#any?**
+https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F
 
 **File**
 https://ruby-doc.org/3.2.2/File.html
 
-**Array**
-https://ruby-doc.org/3.2.2/Array.html
+**FileUtils**
+https://ruby-doc.org/3.2.2/stdlibs/fileutils/FileUtils.html
 
-**Array mixes in all these methods:**
-https://ruby-doc.org/3.2.2/Enumerable.html
+For equivalents to `rm`, `cp`, `mv`, etc.
+
+**Hash**
+https://ruby-doc.org/3.2.2/Hash.html
 
 **JSON**
 https://ruby-doc.org/3.2.2/exts/json/JSON.html
 
-**Hash**
-https://ruby-doc.org/3.2.2/Hash.html
+**open-uri**
+https://ruby-doc.org/3.2.2/stdlibs/open-uri/OpenURI.html
+
+*Downloading files with OpenURI*
+https://www.twilio.com/blog/download-image-files-ruby
 
 **Regular expressions**
 https://ruby-doc.org/3.2.2/Regexp.html
 
 **RMagick**
-https://rmagick.github.io
+https://rmagick.github.io | https://github.com/rmagick/rmagick
 
-https://github.com/rmagick/rmagick
-
-**Using Rmagick to combine images in one PDF**
+*Using Rmagick to combine images in one PDF*
 https://stackoverflow.com/a/20638567
 
-**Enumerable#any?**
-https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F
+**String**
+https://ruby-doc.org/3.2.2/String.html
+
+Note especially: `String#sub`, `String#gsub`, `String.chomp`, `String.strip`
