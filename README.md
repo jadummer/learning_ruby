@@ -6,7 +6,7 @@ Write a series of scripts that do the following and save each one:
 
 - [x] Script 2: print the arguments as a comma-separated list (Array#join)
 
-  - [ ] FIX: The output of `script2.rb a b c d` should be `a, b, c, d`
+  - [x] FIX: The output of `script2.rb a b c d` should be `a, b, c, d`
 
 - [x] Script 3: Take JSON file path from the command line and verify the file exists, print a message to the screen saying so; add a message to print when the file does not.
 
