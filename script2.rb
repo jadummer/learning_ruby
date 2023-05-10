@@ -6,5 +6,6 @@
 
 input_array = ARGV
 
-puts input_array.to_s
+input_array.to_s
+puts input_array.join(",")
 
