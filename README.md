@@ -27,19 +27,19 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [x] Script 5: Open one JSON file and load it using the JSON library and print the top level keys
 
-- [x] Script 6: Open one JSON file and print each image @id, geting each ID using Hash bracket `[]` notation
+- [x] Script 6: Open one JSON file and print each image @id, getting each ID using Hash bracket `[]` notation
 
 - [x] Script 7: Open one JSON file and print each image @id using, getting each `@id` using Hash#dig
 
-  - [ ] OOPS: My bad, the manifest was a bad choice here. It doesn't really exercise the `Hash#dig` method. So, do this, open and load `data/ds-catalog-dump-20230328.json` and use `Hash#dig` to get the `label` for each 'item'.
+  - [ ] OOPS: My bad, the manifest was a bad choice here. It doesn't really exercise the `Hash#dig` method. So, do this, open and load `data/dir2/ds-catalog-dump-20230328.json` and use `Hash#dig` to get the `label` for each 'item'.
 
-The next scripts don’t deal with JSON; so you’re starting over
+The next scripts don’t deal with JSON; so, you’re starting over
 
 - [x] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
 
    - [ ] OOPS, again: There's only one ARK here. Do you have a file with more ARK IDs you could use here?
 
-- [x] Script 9: Reimplement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
+- [x] Script 9: Re-implement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
 
 - [x] Script 10: Open the ark list and print each IIIF manifest URL to the screen using string interpolation.
 
@@ -64,13 +64,13 @@ etc.
 #### Prep
 
 Install ImageMagick: `brew install ImageMagick`
-Install the rmagic gem: `gem install rmagick`
+Install the Rmagick gem: `gem install rmagick`
 
 - [ ] Script 15: Download web JPEGs for [LJS 108](https://openn.library.upenn.edu/Data/0001/html/ljs108.html) into a new folder.
 
 - [ ] Script 16: Combine the JPEGs for [LJS 108](https://openn.library.upenn.edu/Data/0001/html/ljs108.html) as a single PDF; output the PDF to a separate folder.
 
-- [ ] Script 17: Download web JPEGs for [LJS 108](https://openn.library.upenn.edu/Data/0001/html/ljs108.html) into a new folder; combine them as asingle PDF; output the PDF to a separate folder; delete the JPEGs after.
+- [ ] Script 17: Download web JPEGs for [LJS 108](https://openn.library.upenn.edu/Data/0001/html/ljs108.html) into a new folder; combine them as a single PDF; output the PDF to a separate folder; delete the JPEGs after.
 
 
 ## Useful pages
