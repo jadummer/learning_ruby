@@ -21,7 +21,7 @@ $ ruby script3.rb data/manifest.xyz # => "File does not exist: data/manifest.xyz
 File.open do |f|
 end
 ```
- - [ ] CHANGE: If time permits, change this script to accept an argument so it will work with any text file.
+ - [x] CHANGE: If time permits, change this script to accept an argument so it will work with any text file.
 
 Do you get a blank line between each printed line? If so, why? How do you fix it without using a regular expression?
 
