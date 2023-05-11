@@ -53,7 +53,7 @@ The next scripts don’t deal with JSON; so, you’re starting over
 
 ## Working with directories
 
-- [ ] Script 11: Accept a directory as an argument; read each file name and print to the screen prefix `--- File: ` before each file name; run this on `data/dir1` and `data/dir2`
+- [x] Script 11: Accept a directory as an argument; read each file name and print to the screen prefix `--- File: ` before each file name; run this on `data/dir1` and `data/dir2`
 
 - [ ] Script 12: Same as script 11 for `data/dir2` and `data/dir3`, but also print the prefix with the file extension:
 
