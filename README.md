@@ -45,7 +45,7 @@ The next scripts don’t deal with JSON; so, you’re starting over
 
 - [x] Script 8: Open your ARK list and print each line to the screen, using the `File.open() do |f| ... end` block.
 
-   - [ ] OOPS, again: There's only one ARK here. Do you have a file with more ARK IDs you could use here?
+   - [x] OOPS, again: There's only one ARK here. Do you have a file with more ARK IDs you could use here?
 
 - [x] Script 9: Re-implement your `normalize_string` method, open your ARK list, and print each normalized string to the screen; use the `do ... end` block; try the `/.../` and `%r(...)` notations.
 
