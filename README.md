@@ -31,9 +31,9 @@ Do you get a blank line between each printed line? If so, why? How do you fix it
 
 - [x] Script 7: Open one JSON file and print each image @id using, getting each `@id` using Hash#dig
 
-  - [ ] OOPS: My bad, the manifest was a bad choice here. It doesn't really exercise the `Hash#dig` method. So, do this, open and load `data/dir2/ds-catalog-dump-20230328.json` and use `Hash#dig` to get the `value` for each top-level hash in the list (`thing['labels']['en']['value']`). Note that they all have labels.
+  - [x] OOPS: My bad, the manifest was a bad choice here. It doesn't really exercise the `Hash#dig` method. So, do this, open and load `data/dir2/ds-catalog-dump-20230328.json` and use `Hash#dig` to get the `value` for each top-level hash in the list (`thing['labels']['en']['value']`). Note that they all have labels.
 
-- [ ] Script 7b: Following the *OOPS* above, load the same file, `data/dir2/ds-catalog-dump-20230328.json`, then
+- [x] Script 7b: Following the *OOPS* above, load the same file, `data/dir2/ds-catalog-dump-20230328.json`, then
 
    - Find each *item* (`thing['type'] == 'item'`)
    - Find get all the claims hashes (e.g., `thing['claims']['P16'].each { |claim| .. }`)
