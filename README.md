@@ -63,7 +63,7 @@ The next scripts don’t deal with JSON; so, you’re starting over
 etc.
 ```
 
-- [ ] Script 13: Accept a directory as an argument; select the CSV files; use `Dir[]` with globbing; print each file name to the screen prefixing each with `--- `
+- [x] Script 13: Accept a directory as an argument; select the CSV files; use `Dir[]` with globbing; print each file name to the screen prefixing each with `--- `
 
 - [ ] Script 14: Same as script 13, but read all the files from the directory and use [`Enumerable#all?`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F) with a block to select the CSV files.
 
