@@ -67,7 +67,7 @@ etc.
 
 - [x] Script 14a: Same as script 13, but read all the files from the directory and use [`Enumerable#select`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-select) with a block to select the CSV files.
 
-- [ ] Script 14b: Same as script 14a, except use [`Enumerable#reject`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-reject) to select the CSV files.
+- [x] Script 14b: Same as script 14a, except use [`Enumerable#reject`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-reject) to select the CSV files.
 
 ## Working with images
 

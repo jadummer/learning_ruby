@@ -1,8 +1,8 @@
 #!usr/bin/env ruby
 
 =begin
-Script 14: Same as script 13, but read all the files from the directory and 
-use Enumerable#select? with a block to select the CSV files.
+Script 14a: Same as script 13, but read all the files from the directory and use 
+Enumerable#select with a block to select the CSV files.
 =end
 
 dir = ARGV
