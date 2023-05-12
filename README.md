@@ -99,8 +99,11 @@ https://ruby-doc.org/3.2.2/Dir.html
 *Dir[] and Dir.glob*
 https://ruby-doc.org/3.2.2/Dir.html#method-c-glob
 
-**Enumerable#any?**
-https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F
+**Enumerable#select**
+https://ruby-doc.org/3.2.2/Enumerable.html#method-i-select
+
+**Enumerable#reject**
+https://ruby-doc.org/3.2.2/Enumerable.html#method-i-reject
 
 **File**
 https://ruby-doc.org/3.2.2/File.html
