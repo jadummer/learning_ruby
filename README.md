@@ -65,7 +65,9 @@ etc.
 
 - [x] Script 13: Accept a directory as an argument; select the CSV files; use `Dir[]` with globbing; print each file name to the screen prefixing each with `--- `
 
-- [ ] Script 14: Same as script 13, but read all the files from the directory and use [`Enumerable#all?`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-all-3F) with a block to select the CSV files.
+- [ ] Script 14a: Same as script 13, but read all the files from the directory and use [`Enumerable#select`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-select) with a block to select the CSV files.
+
+- [ ] Script 14b: Same as script 14a, except use [`EnumerableEreject`](https://ruby-doc.org/3.2.2/Enumerable.html#method-i-reject) to select the CSV files.
 
 ## Working with images
 
